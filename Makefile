@@ -8,7 +8,7 @@ clean:
 	rm bitcore-wallet-client-hush.js
 	rm bitcore-wallet-client-hush.min.js
 
-bitcore-wallet-client.js: index.js lib/*.js
+bitcore-wallet-client-hush.js: index.js lib/*.js
 	${BIN_PATH}browserify $< > $@
 
 bitcore-wallet-client-hush.min.js: bitcore-wallet-client-hush.js
