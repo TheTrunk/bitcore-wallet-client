@@ -1,11 +1,12 @@
 {
-  "name": "bitcore-wallet-client",
+  "name": "bitcore-wallet-client-hush",
   "main": "index.js",
-  "version": "2.1.1",
-  "homepage": "https://github.com/bitpay/bitcore-wallet-client",
-  "authors": ["BitPay Inc"],
-  "description": "Client for bitcore-wallet-service",
+  "version": "1.0.0",
+  "homepage": "https://github.com/TheTrunk/bitcore-wallet-client-hush",
+  "authors": ["BitPay Inc, TheTrunk"],
+  "description": "Client for bitcore-wallet-service-hush",
   "keywords": [
+    "hush",
     "bitcoin",
     "copay",
     "multisig",
