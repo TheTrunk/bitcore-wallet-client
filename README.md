@@ -9,6 +9,11 @@ This package communicates with BWS-hush [Bitcore wallet service hush](https://gi
 
 See [Bitcore-wallet] (https://github.com/bitpay/bitcore-wallet) for a simple CLI wallet implementation that relays on BWS and uses bitcore-wallet-client-hush.
 
+## Generation of BWC js, Linux
+Download, cd to bitcore-wallet-client-hush and 
+`npm install`
+`make`
+
 ## Get Started NOT YET
 
 You can start using bitcore-wallet-client-hush in any of these two ways:
