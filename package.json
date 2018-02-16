@@ -2,7 +2,7 @@
   "name": "bitcore-wallet-client-hush",
   "description": "Client for bitcore-wallet-service-hush",
   "author": "BitPay Inc, TheTrunk",
-  "version": "1.0.0",
+  "version": "6.4.0",
   "license": "MIT",
   "keywords": [
     "hush",
@@ -29,7 +29,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "bip38": "^1.3.0",
-    "bitcore-lib-hush": "git://github.com/TheTrunk/bitcore-lib-hush#master",
+    "bitcore-lib-hush": "^0.13.20",
     "bitcore-mnemonic-hush": "git://github.com/TheTrunk/bitcore-mnemonic-hush#master",
     "bitcore-payment-protocol-hush": "git://github.com/TheTrunk/bitcore-payment-protocol-hush#master",
     "json-stable-stringify": "^1.0.0",
