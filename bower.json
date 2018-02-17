@@ -1,7 +1,7 @@
 {
   "name": "bitcore-wallet-client-hush",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "2.1.1",
   "homepage": "https://github.com/TheTrunk/bitcore-wallet-client-hush",
   "authors": ["BitPay Inc, TheTrunk"],
   "description": "Client for bitcore-wallet-service-hush",
